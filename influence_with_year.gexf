@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-02-08">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="name" type="long" />
+    </attributes>
+    <nodes>
+      <node id="1980" label="1980">
+        <attvalues>
+          <attvalue for="0" value="1980" />
+        </attvalues>
+      </node>
+      <node id="1990" label="1990">
+        <attvalues>
+          <attvalue for="0" value="1990" />
+        </attvalues>
+      </node>
+      <node id="1960" label="1960">
+        <attvalues>
+          <attvalue for="0" value="1960" />
+        </attvalues>
+      </node>
+      <node id="1950" label="1950">
+        <attvalues>
+          <attvalue for="0" value="1950" />
+        </attvalues>
+      </node>
+      <node id="1970" label="1970">
+        <attvalues>
+          <attvalue for="0" value="1970" />
+        </attvalues>
+      </node>
+      <node id="2000" label="2000">
+        <attvalues>
+          <attvalue for="0" value="2000" />
+        </attvalues>
+      </node>
+      <node id="1940" label="1940">
+        <attvalues>
+          <attvalue for="0" value="1940" />
+        </attvalues>
+      </node>
+      <node id="1930" label="1930">
+        <attvalues>
+          <attvalue for="0" value="1930" />
+        </attvalues>
+      </node>
+      <node id="2010" label="2010">
+        <attvalues>
+          <attvalue for="0" value="2010" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1980" target="1980" weight="1317" />
+      <edge id="1" source="1980" target="1970" weight="3043" />
+      <edge id="2" source="1980" target="1960" weight="2934" />
+      <edge id="3" source="1980" target="1950" weight="812" />
+      <edge id="4" source="1980" target="1940" weight="199" />
+      <edge id="5" source="1980" target="1990" weight="95" />
+      <edge id="6" source="1980" target="1930" weight="117" />
+      <edge id="7" source="1980" target="2000" weight="6" />
+      <edge id="8" source="1990" target="1990" weight="1635" />
+      <edge id="9" source="1990" target="1960" weight="2382" />
+      <edge id="10" source="1990" target="1950" weight="773" />
+      <edge id="11" source="1990" target="1980" weight="3437" />
+      <edge id="12" source="1990" target="1970" weight="2329" />
+      <edge id="13" source="1990" target="1940" weight="201" />
+      <edge id="14" source="1990" target="1930" weight="127" />
+      <edge id="15" source="1990" target="2000" weight="27" />
+      <edge id="16" source="1960" target="1930" weight="577" />
+      <edge id="17" source="1960" target="1950" weight="2250" />
+      <edge id="18" source="1960" target="1960" weight="2555" />
+      <edge id="19" source="1960" target="1940" weight="997" />
+      <edge id="20" source="1960" target="1970" weight="88" />
+      <edge id="21" source="1960" target="2010" weight="1" />
+      <edge id="22" source="1960" target="1990" weight="4" />
+      <edge id="23" source="1960" target="2000" weight="2" />
+      <edge id="24" source="1960" target="1980" weight="4" />
+      <edge id="25" source="1950" target="1940" weight="834" />
+      <edge id="26" source="1950" target="1930" weight="725" />
+      <edge id="27" source="1950" target="1950" weight="1022" />
+      <edge id="28" source="1950" target="1970" weight="18" />
+      <edge id="29" source="1950" target="1960" weight="256" />
+      <edge id="30" source="1950" target="1990" weight="2" />
+      <edge id="31" source="1950" target="2010" weight="1" />
+      <edge id="32" source="1950" target="2000" weight="1" />
+      <edge id="33" source="1950" target="1980" weight="1" />
+      <edge id="34" source="1970" target="1970" weight="1398" />
+      <edge id="35" source="1970" target="1960" weight="3381" />
+      <edge id="36" source="1970" target="1930" weight="253" />
+      <edge id="37" source="1970" target="1940" weight="382" />
+      <edge id="38" source="1970" target="1950" weight="1293" />
+      <edge id="39" source="1970" target="1980" weight="59" />
+      <edge id="40" source="1970" target="1990" weight="12" />
+      <edge id="41" source="1970" target="2000" weight="3" />
+      <edge id="42" source="2000" target="1990" weight="1634" />
+      <edge id="43" source="2000" target="1970" weight="1022" />
+      <edge id="44" source="2000" target="1980" weight="1162" />
+      <edge id="45" source="2000" target="2000" weight="174" />
+      <edge id="46" source="2000" target="1960" weight="1006" />
+      <edge id="47" source="2000" target="1950" weight="355" />
+      <edge id="48" source="2000" target="1940" weight="64" />
+      <edge id="49" source="2000" target="1930" weight="54" />
+      <edge id="50" source="2000" target="2010" weight="1" />
+      <edge id="51" source="1940" target="1930" weight="423" />
+      <edge id="52" source="1940" target="1950" weight="81" />
+      <edge id="53" source="1940" target="1940" weight="230" />
+      <edge id="54" source="1940" target="1960" weight="6" />
+      <edge id="55" source="1940" target="1990" weight="1" />
+      <edge id="56" source="1930" target="1930" weight="129" />
+      <edge id="57" source="1930" target="1940" weight="44" />
+      <edge id="58" source="1930" target="1950" weight="18" />
+      <edge id="59" source="1930" target="1960" weight="2" />
+      <edge id="60" source="2010" target="1960" weight="118" />
+      <edge id="61" source="2010" target="1980" weight="103" />
+      <edge id="62" source="2010" target="1970" weight="98" />
+      <edge id="63" source="2010" target="1990" weight="263" />
+      <edge id="64" source="2010" target="1950" weight="39" />
+      <edge id="65" source="2010" target="1940" weight="6" />
+      <edge id="66" source="2010" target="2000" weight="163" />
+      <edge id="67" source="2010" target="2010" weight="17" />
+      <edge id="68" source="2010" target="1930" weight="4" />
+    </edges>
+  </graph>
+</gexf>
